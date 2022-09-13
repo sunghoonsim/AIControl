@@ -1,4 +1,5 @@
 # AIControl
 
 ### 나의 첫번째 마크다운 파일입니다.
-#### 반갑습니다 제 이름은 성훈심 입니다.
+#### Hi i'm SUNGHOON SIM
+#### i'm looking for work
