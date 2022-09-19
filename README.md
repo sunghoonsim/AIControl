@@ -17,4 +17,5 @@
 
 #### 🔥🔥 점점 자격증 및 경력을 늘리겠습니다.
 
-(https://img.shields.io/static/v1?label=<C++>&message=<MESSAGE>&color=<white>)
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp>
+
