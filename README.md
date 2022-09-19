@@ -1,5 +1,7 @@
 # AIControl
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 ### 나의 첫번째 마크다운 파일입니다.
 #### Hi i'm SUNGHOON SIM
 #### i'm looking for work
@@ -17,5 +19,3 @@
 
 #### 🔥🔥 점점 자격증 및 경력을 늘리겠습니다.
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
