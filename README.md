@@ -16,4 +16,6 @@
 - 운전면허 1종
 
 #### 🔥🔥 점점 자격증 및 경력을 늘리겠습니다.
-
+(https://img.shields.io/endpoint?url=<URL>&style<STYLE>)
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp>
+(https://img.shields.io/static/v1?label=<C++>&message=<MESSAGE>&color=<white>)
